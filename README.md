@@ -1,0 +1,1 @@
+# guarani_dictionary_project
